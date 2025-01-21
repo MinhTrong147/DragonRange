@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project-1.0";
 const contentToCache = [
-    "Build/DragonGameHTML.loader.js",
-    "Build/DragonGameHTML.framework.js",
-    "Build/DragonGameHTML.data",
-    "Build/DragonGameHTML.wasm",
+    "Build/HTML.loader.js",
+    "Build/HTML.framework.js",
+    "Build/HTML.data",
+    "Build/HTML.wasm",
     "TemplateData/style.css"
 
 ];
